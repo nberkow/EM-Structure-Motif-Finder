@@ -6,7 +6,7 @@ Problem: Given a set of numerical sequences, is there some subsequence that is s
 
 s1: 5**,8,20,21,20,7,**6,19,7,3,4,6,20
 
-s2: 6,19,8,7,4,2,**,8,21,21,19,8,**20
+s2: 6,19,8,7,4,2**,8,21,21,19,8,**20
 
 s3: 10,1,8,2**,9,20,21,20,8,**,20,2,10
 
